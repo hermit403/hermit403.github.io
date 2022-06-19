@@ -6,7 +6,7 @@
   <link href="https://hermit403.github.io/atom.xml" rel="self"/>
   
   <link href="https://hermit403.github.io/"/>
-  <updated>2022-06-19T01:12:23.220Z</updated>
+  <updated>2022-06-19T15:36:45.005Z</updated>
   <id>https://hermit403.github.io/</id>
   
   <author>
@@ -15,6 +15,63 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>博客建设待办事项</title>
+    <link href="https://hermit403.github.io/0c79a2e77ca3/"/>
+    <id>https://hermit403.github.io/0c79a2e77ca3/</id>
+    <published>2022-06-19T15:32:35.000Z</published>
+    <updated>2022-06-19T15:36:45.005Z</updated>
+    
+    <content type="html"><![CDATA[<h1>待完成</h1><hr><ul><li><h2 id="必要">必要</h2></li><li><p>语法高亮配置</p></li><li><p>KaTex配置</p></li><li><h2 id="次要">次要</h2></li><li><p>优化博客结构</p></li><li><p>添加背景等</p></li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1&gt;待完成&lt;/h1&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h2 id=&quot;必要&quot;&gt;必要&lt;/h2&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;语法高亮配置&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;KaTex配置&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id=&quot;次要&quot;&gt;次要&lt;/h2&gt;
+&lt;/li&gt;
+&lt;li&gt;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://hermit403.github.io/0650bdc1fcbe/"/>
+    <id>https://hermit403.github.io/0650bdc1fcbe/</id>
+    <published>2022-06-19T15:27:24.855Z</published>
+    <updated>2022-06-19T15:27:24.855Z</updated>
+    
+    <content type="html"><![CDATA[<p>测试页面！</p><p>中文测试</p><p>Tex测试：<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>2</mn><mi>h</mi><mo>=</mo><mi>g</mi><msup><mi>t</mi><mn>2</mn></msup></mrow><annotation encoding="application/x-tex">2h=gt^2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord">2</span><span class="mord mathnormal">h</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:1.0085em;vertical-align:-0.1944em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">g</span><span class="mord"><span class="mord mathnormal">t</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span></p><h2 id="lalala">lalala</h2><h1>lalalala</h1><p>The End.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;测试页面！&lt;/p&gt;
+&lt;p&gt;中文测试&lt;/p&gt;
+&lt;p&gt;Tex测试：&lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;semantics</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>hi</title>
@@ -38,35 +95,16 @@
   </entry>
   
   <entry>
-    <title></title>
-    <link href="https://hermit403.github.io/3ceac2edefa5/"/>
-    <id>https://hermit403.github.io/3ceac2edefa5/</id>
-    <published>2022-06-18T16:44:15.710Z</published>
-    <updated>2022-06-18T16:23:10.591Z</updated>
-    
-    <content type="html"><![CDATA[<p>测试页面！</p><p>中文测试</p><p>Tex测试：$2h&#x3D;gt^2$</p><h2 id="lalala"><a href="#lalala" class="headerlink" title="lalala"></a>lalala</h2><h1 id="lalalala"><a href="#lalalala" class="headerlink" title="lalalala"></a>lalalala</h1><p>The End.</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;测试页面！&lt;/p&gt;
-&lt;p&gt;中文测试&lt;/p&gt;
-&lt;p&gt;Tex测试：$2h&amp;#x3D;gt^2$&lt;/p&gt;
-&lt;h2 id=&quot;lalala&quot;&gt;&lt;a href=&quot;#lalala&quot; class=&quot;headerlink&quot; title=&quot;lalala&quot;&gt;&lt;/a&gt;lalala&lt;/h2&gt;&lt;h1 </summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>测试用页面</title>
     <link href="https://hermit403.github.io/7325a268a2f6/"/>
     <id>https://hermit403.github.io/7325a268a2f6/</id>
     <published>2022-06-18T16:18:04.000Z</published>
-    <updated>2022-06-18T16:46:41.406Z</updated>
+    <updated>2022-06-19T15:33:36.406Z</updated>
     
+    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="bdb7dfee08a25fe7b99972c77976e1eb6e888b23f00c7bf2f2b7ea0b68bc2730">5808c6cbf3ac08533f2dffaad5e129c1052e2e9a1e215a8894a9044fe516d000c23af38b472febee7638e8bf0a0ce81c</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
     
     
     
@@ -80,7 +118,7 @@
     <published>2022-06-18T16:00:20.294Z</published>
     <updated>2022-06-18T16:00:20.294Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start">Quick Start</h2><h3 id="Create-a-new-post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
     
       

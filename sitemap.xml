@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://hermit403.github.io/9c6431e0bcba/</loc>
+    <loc>https://hermit403.github.io/diary/index.html</loc>
+    
+    <lastmod>2022-06-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hermit403.github.io/0c79a2e77ca3/</loc>
     
     <lastmod>2022-06-19</lastmod>
     
@@ -13,16 +22,25 @@
   <url>
     <loc>https://hermit403.github.io/7325a268a2f6/</loc>
     
-    <lastmod>2022-06-18</lastmod>
+    <lastmod>2022-06-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://hermit403.github.io/3ceac2edefa5/</loc>
+    <loc>https://hermit403.github.io/0650bdc1fcbe/</loc>
     
-    <lastmod>2022-06-18</lastmod>
+    <lastmod>2022-06-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hermit403.github.io/9c6431e0bcba/</loc>
+    
+    <lastmod>2022-06-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
