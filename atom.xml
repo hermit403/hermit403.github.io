@@ -6,7 +6,7 @@
   <link href="https://hermit403.github.io/atom.xml" rel="self"/>
   
   <link href="https://hermit403.github.io/"/>
-  <updated>2022-06-19T15:36:45.005Z</updated>
+  <updated>2022-06-22T04:02:08.112Z</updated>
   <id>https://hermit403.github.io/</id>
   
   <author>
@@ -17,75 +17,46 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Hello World</title>
+    <link href="https://hermit403.github.io/ad99be8d49bf/"/>
+    <id>https://hermit403.github.io/ad99be8d49bf/</id>
+    <published>2022-06-22T04:02:08.112Z</published>
+    <updated>2022-06-22T04:02:08.112Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Hexo示例页面，保留">Hexo示例页面，保留</h3><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start">Quick Start</h2><h3 id="Create-a-new-post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;Hexo示例页面，保留&quot;&gt;Hexo示例页面，保留&lt;/h3&gt;
+&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https:</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>博客建设待办事项</title>
     <link href="https://hermit403.github.io/0c79a2e77ca3/"/>
     <id>https://hermit403.github.io/0c79a2e77ca3/</id>
     <published>2022-06-19T15:32:35.000Z</published>
-    <updated>2022-06-19T15:36:45.005Z</updated>
+    <updated>2022-06-22T04:01:13.452Z</updated>
     
-    <content type="html"><![CDATA[<h1>待完成</h1><hr><ul><li><h2 id="必要">必要</h2></li><li><p>语法高亮配置</p></li><li><p>KaTex配置</p></li><li><h2 id="次要">次要</h2></li><li><p>优化博客结构</p></li><li><p>添加背景等</p></li></ul>]]></content>
+    <content type="html"><![CDATA[<ul><li><h3 id="添加背景">添加背景</h3></li><li><h3 id="优化博客">优化博客</h3></li></ul>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1&gt;待完成&lt;/h1&gt;
-&lt;hr&gt;
-&lt;ul&gt;
+    <summary type="html">&lt;ul&gt;
 &lt;li&gt;
-&lt;h2 id=&quot;必要&quot;&gt;必要&lt;/h2&gt;
+&lt;h3 id=&quot;添加背景&quot;&gt;添加背景&lt;/h3&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;语法高亮配置&lt;/p&gt;
+&lt;h3 id=&quot;优化博客&quot;&gt;优化博客&lt;/h3&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;KaTex配置&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h2 id=&quot;次要&quot;&gt;次要&lt;/h2&gt;
-&lt;/li&gt;
-&lt;li&gt;</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="https://hermit403.github.io/0650bdc1fcbe/"/>
-    <id>https://hermit403.github.io/0650bdc1fcbe/</id>
-    <published>2022-06-19T15:27:24.855Z</published>
-    <updated>2022-06-19T15:27:24.855Z</updated>
-    
-    <content type="html"><![CDATA[<p>测试页面！</p><p>中文测试</p><p>Tex测试：<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>2</mn><mi>h</mi><mo>=</mo><mi>g</mi><msup><mi>t</mi><mn>2</mn></msup></mrow><annotation encoding="application/x-tex">2h=gt^2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord">2</span><span class="mord mathnormal">h</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:1.0085em;vertical-align:-0.1944em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">g</span><span class="mord"><span class="mord mathnormal">t</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span></p><h2 id="lalala">lalala</h2><h1>lalalala</h1><p>The End.</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;测试页面！&lt;/p&gt;
-&lt;p&gt;中文测试&lt;/p&gt;
-&lt;p&gt;Tex测试：&lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;semantics</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>hi</title>
-    <link href="https://hermit403.github.io/9c6431e0bcba/"/>
-    <id>https://hermit403.github.io/9c6431e0bcba/</id>
-    <published>2022-06-19T01:10:06.000Z</published>
-    <updated>2022-06-19T01:12:23.220Z</updated>
-    
-    <content type="html"><![CDATA[<p>hi</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;hi&lt;/p&gt;
+&lt;/ul&gt;
 </summary>
       
     
@@ -95,35 +66,22 @@
   </entry>
   
   <entry>
-    <title>测试用页面</title>
-    <link href="https://hermit403.github.io/7325a268a2f6/"/>
-    <id>https://hermit403.github.io/7325a268a2f6/</id>
+    <title>测试页面</title>
+    <link href="https://hermit403.github.io/ba1175ff5574/"/>
+    <id>https://hermit403.github.io/ba1175ff5574/</id>
     <published>2022-06-18T16:18:04.000Z</published>
-    <updated>2022-06-20T04:56:11.465Z</updated>
+    <updated>2022-06-22T04:13:52.067Z</updated>
     
-    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="b045063d14b06107bc9f06afc35c0d47417641b6b9fa4e571d03b1bc39f45782">98b9bce3395e8307c58744c12688842415e3fd2b34476b57207e500491f4caabb0eea75324152add37294d517f547e0f</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">你必须输入密码。</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-    
-    
-    <summary type="html">这篇文章已加密。</summary>
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://hermit403.github.io/d52f30c55a78/"/>
-    <id>https://hermit403.github.io/d52f30c55a78/</id>
-    <published>2022-06-18T16:00:20.294Z</published>
-    <updated>2022-06-18T16:00:20.294Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start">Quick Start</h2><h3 id="Create-a-new-post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h1>这里是测试页面，用于测试博客功能是否正常</h1><p>中文测试</p><p>我能吞下玻璃而不伤身体</p><p>KaTex测试</p><p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>h</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>g</mi><msup><mi>t</mi><mn>2</mn></msup></mrow><annotation encoding="application/x-tex">h=\frac{1}{2}gt^2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">h</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:1.1901em;vertical-align:-0.345em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.8451em;"><span style="top:-2.655em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">2</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">1</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mord mathnormal" style="margin-right:0.03588em;">g</span><span class="mord"><span class="mord mathnormal">t</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span></p><p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mo stretchy="false">(</mo><mi>a</mi><mo>−</mo><mi>b</mi><msup><mo stretchy="false">)</mo><mn>2</mn></msup><mo>⩾</mo><mn>0</mn><mspace linebreak="newline"></mspace><msup><mi>a</mi><mn>2</mn></msup><mo>−</mo><mn>2</mn><mi>a</mi><mi>b</mi><mo>+</mo><msup><mi>b</mi><mn>2</mn></msup><mo>⩾</mo><mn>0</mn><mspace linebreak="newline"></mspace><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><msup><mi>b</mi><mn>2</mn></msup><mo>⩾</mo><mn>2</mn><mi>a</mi><mi>b</mi><mspace linebreak="newline"></mspace><mtext>当且仅当</mtext><mi>a</mi><mo>=</mo><mi>b</mi><mtext>时</mtext><mo separator="true">,</mo><mtext>等号成立</mtext><mi mathvariant="normal">.</mi></mrow><annotation encoding="application/x-tex">(a-b)^2\geqslant0\\a^2-2ab+b^2\geqslant0\\a^2+b^2\geqslant2ab\\当且仅当a=b时,等号成立.</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mopen">(</span><span class="mord mathnormal">a</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:1.1141em;vertical-align:-0.25em;"></span><span class="mord mathnormal">b</span><span class="mclose"><span class="mclose">)</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8641em;"><span style="top:-3.113em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel amsrm">⩾</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">0</span></span><span class="mspace newline"></span><span class="base"><span class="strut" style="height:0.9474em;vertical-align:-0.0833em;"></span><span class="mord"><span class="mord mathnormal">a</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8641em;"><span style="top:-3.113em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.7778em;vertical-align:-0.0833em;"></span><span class="mord">2</span><span class="mord mathnormal">ab</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:1.0008em;vertical-align:-0.1367em;"></span><span class="mord"><span class="mord mathnormal">b</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8641em;"><span style="top:-3.113em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel amsrm">⩾</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">0</span></span><span class="mspace newline"></span><span class="base"><span class="strut" style="height:0.9474em;vertical-align:-0.0833em;"></span><span class="mord"><span class="mord mathnormal">a</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8641em;"><span style="top:-3.113em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:1.0008em;vertical-align:-0.1367em;"></span><span class="mord"><span class="mord mathnormal">b</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8641em;"><span style="top:-3.113em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel amsrm">⩾</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord">2</span><span class="mord mathnormal">ab</span></span><span class="mspace newline"></span><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord cjk_fallback">当且仅当</span><span class="mord mathnormal">a</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.8889em;vertical-align:-0.1944em;"></span><span class="mord mathnormal">b</span><span class="mord cjk_fallback">时</span><span class="mpunct">,</span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mord cjk_fallback">等号成立</span><span class="mord">.</span></span></span></span></span></p><p>标题测试</p><h2 id="二级">二级</h2><h3 id="三级">三级</h3><h4 id="四级">四级</h4><h5 id="五级">五级</h5><h2 id="分隔线测试">分隔线测试</h2><hr><hr><p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mi>T</mi><mi>h</mi><mi>e</mi><mi>E</mi><mi>n</mi><mi>d</mi><mi mathvariant="normal">.</mi></mrow><annotation encoding="application/x-tex">The End.</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">T</span><span class="mord mathnormal">h</span><span class="mord mathnormal">e</span><span class="mord mathnormal" style="margin-right:0.05764em;">E</span><span class="mord mathnormal">n</span><span class="mord mathnormal">d</span><span class="mord">.</span></span></span></span></span></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;h1&gt;这里是测试页面，用于测试博客功能是否正常&lt;/h1&gt;
+&lt;p&gt;中文测试&lt;/p&gt;
+&lt;p&gt;我能吞下玻璃而不伤身体&lt;/p&gt;
+&lt;p&gt;KaTex测试&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math xmlns=&quot;h</summary>
       
     
     
