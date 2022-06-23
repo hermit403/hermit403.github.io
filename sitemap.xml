@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hermit403.github.io/about/index.html</loc>
+    
+    <lastmod>2022-06-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hermit403.github.io/ba1175ff5574/</loc>
     
     <lastmod>2022-06-22</lastmod>
