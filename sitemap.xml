@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hermit403.github.io/talking/index.html</loc>
+    
+    <lastmod>2022-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hermit403.github.io/40c8a534667b/</loc>
+    
+    <lastmod>2022-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hermit403.github.io/b164e0243609/</loc>
+    
+    <lastmod>2022-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hermit403.github.io/daa/index.html</loc>
     
     <lastmod>2022-07-10</lastmod>
@@ -128,25 +155,7 @@
   </url>
   
   <url>
-    <loc>https://hermit403.github.io/48829b0382e8/</loc>
-    
-    <lastmod>2022-07-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://hermit403.github.io/ba1175ff5574/</loc>
-    
-    <lastmod>2022-07-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hermit403.github.io/0c79a2e77ca3/</loc>
     
     <lastmod>2022-07-09</lastmod>
     
@@ -175,7 +184,7 @@
 
   <url>
     <loc>https://hermit403.github.io/</loc>
-    <lastmod>2022-07-10</lastmod>
+    <lastmod>2022-07-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
