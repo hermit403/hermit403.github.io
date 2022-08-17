@@ -34,39 +34,13 @@
   </entry>
   
   <entry>
-    <title>post</title>
-    <link href="https://hermit403.github.io/b164e0243609/"/>
-    <id>https://hermit403.github.io/b164e0243609/</id>
-    <published>2022-07-09T16:13:00.000Z</published>
-    <updated>2022-07-29T16:27:31.733Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="https://hermit403.github.io/56e6ea3a5498/"/>
-    <id>https://hermit403.github.io/56e6ea3a5498/</id>
-    <published>2022-07-09T16:06:49.000Z</published>
-    <updated>2022-07-10T02:03:12.809Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>博客待办事项</title>
     <link href="https://hermit403.github.io/40c8a534667b/"/>
     <id>https://hermit403.github.io/40c8a534667b/</id>
     <published>2022-06-19T15:32:00.000Z</published>
-    <updated>2022-07-29T16:30:20.230Z</updated>
+    <updated>2022-08-17T16:22:16.456Z</updated>
     
-    <content type="html"><![CDATA[<ul><li><p>更新至主题的4.3版本</p></li><li><p>补充 关于 页面</p></li></ul>]]></content>
+    <content type="html"><![CDATA[<ul><li><p>更新至主题的4.3版本</p></li><li><p>定制主题(魔改)</p></li><li><p>补充 关于 页面</p></li></ul>]]></content>
     
     
       
@@ -74,6 +48,9 @@
     <summary type="html">&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;更新至主题的4.3版本&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;定制主题(魔改)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;补充 关于 页面&lt;/p&gt;
