@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hermit403.github.io/about/index.html</loc>
+    
+    <lastmod>2022-10-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hermit403.github.io/ba1175ff5574/</loc>
+    
+    <lastmod>2022-10-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hermit403.github.io/40c8a534667b/</loc>
+    
+    <lastmod>2022-10-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hermit403.github.io/talking/index.html</loc>
     
     <lastmod>2022-09-25</lastmod>
@@ -11,43 +38,7 @@
   </url>
   
   <url>
-    <loc>https://hermit403.github.io/7a6f33c73122/</loc>
-    
-    <lastmod>2022-08-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hermit403.github.io/acea3dbb05c3/</loc>
-    
-    <lastmod>2022-08-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hermit403.github.io/40c8a534667b/</loc>
-    
-    <lastmod>2022-08-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://hermit403.github.io/8de7385b49b2/</loc>
-    
-    <lastmod>2022-08-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hermit403.github.io/about/index.html</loc>
     
     <lastmod>2022-08-17</lastmod>
     
@@ -101,27 +92,9 @@
   </url>
   
   <url>
-    <loc>https://hermit403.github.io/diary/index.html</loc>
-    
-    <lastmod>2022-07-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://hermit403.github.io/diandian1/index.html</loc>
     
     <lastmod>2022-07-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hermit403.github.io/ba1175ff5574/</loc>
-    
-    <lastmod>2022-07-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -139,7 +112,7 @@
 
   <url>
     <loc>https://hermit403.github.io/</loc>
-    <lastmod>2022-09-25</lastmod>
+    <lastmod>2022-10-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
